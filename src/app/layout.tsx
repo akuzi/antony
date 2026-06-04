@@ -16,11 +16,11 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: "Antony Kuzmicich",
-  description: "Traveler. Photographer. Technologist.",
+  description: "Antony's website",
   metadataBase: new URL("https://antony.akuzi.org"),
   openGraph: {
     title: "Antony Kuzmicich",
-    description: "Traveler. Photographer. Technologist.",
+    description: "Antony's website",
     url: "https://antony.akuzi.org",
     siteName: "Antony Kuzmicich",
     locale: "en_US",
