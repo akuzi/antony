@@ -94,7 +94,7 @@ export default function DonHills() {
                   </p>
                 </div>
               )}
-              {i === 11 && (
+              {i === 10 && (
                 <div className="my-8">
                   <div className="relative w-full aspect-[4/3] overflow-hidden">
                     <Image
