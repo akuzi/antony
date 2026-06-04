@@ -68,12 +68,6 @@ export default function Connect() {
           >
             Find Me Here
           </h2>
-          <a
-            href="mailto:antony.kuzmicich@gmail.com"
-            className="text-muted text-sm hover:text-accent transition-colors duration-300"
-          >
-            antony.kuzmicich@gmail.com
-          </a>
         </motion.div>
 
         <div className="flex flex-wrap justify-center gap-3 mb-24">
