@@ -4,7 +4,7 @@ import Link from "next/link";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Don Hill's, New York, 2000 — Antony Kuzmicich",
+  title: "Don Hill's, New York, 2000 | Antony Kuzmicich",
   description: "By midnight the street outside Don Hill's looked like a collision between a British youth cult and a New York sanitation strike.",
 };
 
@@ -122,7 +122,7 @@ export default function DonHills() {
                     />
                   </div>
                   <p className="text-[#444] text-[10px] tracking-wide mt-2">
-                    © Cody Smyth / Consequence of Sound — The Strokes at Don Hill&apos;s, 2000
+                    © Cody Smyth / Consequence of Sound. The Strokes at Don Hill&apos;s, 2000
                   </p>
                 </div>
               )}
