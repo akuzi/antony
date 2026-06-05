@@ -92,7 +92,12 @@ export default function Photography() {
             Around the World
           </h2>
           <p className="text-muted text-sm max-w-xl leading-relaxed">
-            Some travel images, largely shot on Fuji Velvia film
+            I grew up reading National Geographic magazines and was drawn to the
+            style of photographers like Steve McCurry, Jodi Cobb, and Annie
+            Griffiths. My style is also influenced by the photojournalistic
+            approach of Magnum photographers such as Alex Webb, David Seymour,
+            and Eve Arnold. Most of my
+            travel photos are taken on Fuji Velvia film.
           </p>
           <a
             href="https://pbase.com/akuzi/"
